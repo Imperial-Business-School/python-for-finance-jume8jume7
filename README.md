@@ -10,6 +10,7 @@
 - **MSc Management, IM, ESB**
 - **June 2025**
 
+
 ### Module Outline
 
 This module introduces the Python programming language as a tool to support financial and managerial decisions in business. Python has gained a reputation as one of the top choices for applying computational methods in finance because of its readability, portability, and rich third-party libraries. Throughout the module, students will apply Python to support financial and management decisions in business, with a focus on simplicity and practical applications. The module will focus on the application of Python for the preparation, analysis, and visualisation of financial data sets. Students will learn though domain-specific examples and learn how the Python libraries that support computational finance can be applied to gain insights that support business decision-making.
